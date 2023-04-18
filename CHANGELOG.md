@@ -4,6 +4,33 @@ All Notable changes to `laravel-modules` will be documented in this file.
 
 ## Next
 
+## 10.0 - 2023-02-14
+
+### Changed
+
+- Minimum PHP version to 8.1 for supporting Laravel 10
+- Laravel 10 version
+- Increased PHPUnit to 10.0
+- Increased Mockery to 1.5
+
+## Updated
+
+- [@dev-karpenko](https://github.com/dev-karpenko) updated get attributes cache [#1526](https://github.com/nWidart/laravel-modules/pull/1526)
+
+## 9.0.7 - 2022-11-17
+
+## Added
+
+- [@alissn](https://github.com/alissn) implement command check lang folder, and show missing files [#1496](https://github.com/nWidart/laravel-modules/pull/1496)
+- [@kmizzi](https://github.com/kmizzi) Use AsCommand in lieu of defaultName for ModelShowCommand [#1503](https://github.com/nWidart/laravel-modules/pull/1503)
+
+## 9.0.6 - 2022-10-28
+
+## Added
+
+- [@wikigods](https://github.com/wikigods) added vite compatibility [#1455](https://github.com/nWidart/laravel-modules/pull/1455)
+- [@WMOH-DEV](https://github.com/WMOH-DEV) Adding migrate fresh command [#1483](https://github.com/nWidart/laravel-modules/pull/1483)
+
 ## 9.0.5 - 2022-08-31
 
 ## Added
